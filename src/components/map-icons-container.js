@@ -308,6 +308,7 @@ function astar(start,end){
   }
 }
 
+//Interaction
 //first_click button
 let first_click = true;
 let start_loc, end_loc;
